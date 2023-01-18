@@ -567,6 +567,10 @@ footer {
 .sec5 form button {
     width: 340px;
   }
+  .btn-up {
+    font-size: 16px;
+    padding: 4px 8px;
+  }
 }
 @media screen and (max-width: 400px) {
   .sec1 {
